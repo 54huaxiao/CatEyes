@@ -1,0 +1,104 @@
+<mockup ID="655079F0-30BD-4764-B365-19A9905374CC" clipArea="(0,0,0,0)" defaultH="667" defaultW="375" from="FmLocal" measureH="667" measureW="375" minAllowVersion="4.3" mobileScreenScale="1.77777779102325" platform="MtMobile" screenOrientation="MoPortrait" version="4.5">
+  <controls controlCount="3">
+    <control caption="Image" controlID="9E601A2B-0F70-4CCA-8C0D-995D076D0623" controlTypeID="Image" h="101" isShow="True" locked="False" measuredH="150" measuredW="150" sizeLocked="False" w="101" x="138" y="48" zOrder="0">
+      <controlProperties>
+        <basic alias="" borderColor="4284900966" borderVisible="False" canMove="True" color="4294967295" isAutoSize="False" isCommentCom="False" opacity="1" rotation="0" status="MsEnabled"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links animate="AmPushLeft" animateAutoDelay="0" animateDuration="500" eventType="AtClick">
+          <link isApplyIncludePage="False" linkType="ltPageLink" targetPageID="" title="%E9%93%BE%E6%8E%A5">
+            <area ID="{5CE9D4C4-091E-40E8-BCEC-5FAE297CBDCB}" alt="" coords="(0,0,101,101)" shape="0"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area ID="{A2A93F2B-470B-4B1E-BD2D-9D6C5E4D8870}" alt="" coords="(0,0,101,101)" shape="0"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <rotationAngle>TdZero</rotationAngle>
+        <clipShapeType>SbRectangle</clipShapeType>
+        <radius>0</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <filterType>MfNone</filterType>
+        <filterPencilValue>2</filterPencilValue>
+        <filterSketchValue>5</filterSketchValue>
+        <URL/>
+        <FlipHorizontal>False</FlipHorizontal>
+        <FlipVertical>False</FlipVertical>
+        <fitMode>2</fitMode>
+        <showText>False</showText>
+      </controlProperties>
+    </control>
+    <control caption="Text+Area" controlID="EF1BE168-8E89-4D11-BB90-52126C71C352" controlTypeID="TextArea" h="117" isShow="True" locked="False" measuredH="126" measuredW="0" sizeLocked="False" w="340" x="18" y="190" zOrder="1">
+      <controlProperties>
+        <basic alias="" borderColor="4282664004" borderVisible="False" canMove="True" color="16777215" isAutoSize="False" isCommentCom="False" opacity="1" rotation="0" status="MsEnabled"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links animate="AmPushLeft" animateAutoDelay="0" animateDuration="500" eventType="AtClick">
+          <link isApplyIncludePage="False" linkType="ltPageLink" targetPageID="" title="%E9%93%BE%E6%8E%A5">
+            <area ID="{734A7B24-D7C8-4BFB-989D-5C39A37C5373}" alt="" coords="(0,0,340,117)" shape="0"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area ID="{22441F0F-1F9E-4DDF-BB55-69B8EC684F6C}" alt="" coords="(0,0,340,117)" shape="0"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet lineSpacingMultiple="1" textAlign="HaCenter" textColor="4278190080" textFontFamily="Arial" textSize="16" textStyles="[]" textVAlign="VaTop" textWordWrap="True" useDefaultTextSize="False">
+          <text>Start+collecting+Gogobot+badges!+Are+you+informed%2C+a+Photo+Friend%2C+or+Fan+Favorite%3F+Sign+up+to+find+out!</text>
+          <font family="Arial"/>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+      </controlProperties>
+    </control>
+    <control caption="Button" controlID="C98FDCA2-CB06-46D0-A593-B17F33017D65" controlTypeID="Button" h="48" isShow="True" locked="False" measuredH="36" measuredW="78" sizeLocked="False" w="355" x="10" y="278" zOrder="2">
+      <controlProperties>
+        <basic alias="" borderColor="4284900966" borderVisible="False" canMove="True" color="4294901886" isAutoSize="False" isCommentCom="False" opacity="1" rotation="0" status="MsEnabled"/>
+        <states/>
+        <verticalScrollbarShow>False</verticalScrollbarShow>
+        <verticalScrollbarProgress>0</verticalScrollbarProgress>
+        <horizontalScrollbarShow>False</horizontalScrollbarShow>
+        <horizontalScrollbarProgress>0</horizontalScrollbarProgress>
+        <links animate="AmNone" animateAutoDelay="0" animateDuration="500" eventType="AtClick">
+          <link isApplyIncludePage="False" linkType="ltPageLink" targetPageID="9059FBD9-4C06-4F6F-93BE-13DFF1C61636" title="sign+up">
+            <area ID="{3C1C2C4E-26D6-4C77-B47F-3B4FC0123FF4}" alt="" coords="(0,0,355,48)" shape="0"/>
+          </link>
+        </links>
+        <interactiveData>
+          <entry title="">
+            <area ID="{119B7EDE-6DA5-4587-9FE2-7F015D72473C}" alt="" coords="(0,0,355,48)" shape="0"/>
+            <events title=""/>
+          </entry>
+        </interactiveData>
+        <textSet lineSpacingMultiple="1" textAlign="HaCenter" textColor="4278190080" textFontFamily="Arial" textSize="16" textStyles="[]" textVAlign="VaMiddle" textWordWrap="True" useDefaultTextSize="False">
+          <text>Sign+up</text>
+          <font family="Arial"/>
+        </textSet>
+        <selectedIndex>-1</selectedIndex>
+        <selectedColor>4282501083</selectedColor>
+        <textPadding>0</textPadding>
+        <radius>4</radius>
+        <radiusIsPercent>False</radiusIsPercent>
+        <buttonStatus>BsNormal</buttonStatus>
+        <thickness>1</thickness>
+        <isAutoTextColor>True</isAutoTextColor>
+        <borderColor>4284900966</borderColor>
+      </controlProperties>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontFamily>Arial</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

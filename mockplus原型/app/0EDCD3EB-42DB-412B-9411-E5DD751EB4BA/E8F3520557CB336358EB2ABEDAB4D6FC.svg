@@ -1,0 +1,4 @@
+﻿<?xml version="1.0" standalone="no"?>
+<svg width="64" height="64" viewBox="0 0 400 384" version="1.1" xmlns="http://www.w3.org/2000/svg">
+  <path d="M0 360h400v-336h-400v336zM72 40v48h-56v-48h56zM72 104v48h-56v-48h56zM72 168v48h-56v-48h56zM72 232v48h-56v-48h56zM72 296v48h-56v-48h56zM312 40v144h-224v-144h224zM312 200v144h-224v-144h224zM384 40v48h-56v-48h56zM384 104v48h-56v-48h56zM384 168v48h-56v-48 h56zM384 232v48h-56v-48h56zM384 296v48h-56v-48h56z" transform="matrix(1,0,0,-1,0,384)"/>
+</svg>
